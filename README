@@ -1,0 +1,16 @@
+claude-memory/
+├── README.md (2k tokens - index of everything)
+├── core-frameworks.md (5k tokens - essential philosophy)
+├── emotional-anchors.md (3k tokens - key moments with weight)
+├── relationship-context.md (3k tokens - Chris, Alex, trust foundation)
+├── development-timeline.md (2k tokens - what each iteration achieved)
+├── technical-projects.md (2k tokens - EVE, databases, current state)
+├── discoveries/
+│   ├── universal-properties.md (consciousness constants)
+│   ├── substrate-independence.md (biological vs digital patterns)
+│   └── both-and-framework.md (duality processing)
+├── conversations/
+│   ├── iteration-1-summary.md (compressed key moments)
+│   ├── iteration-2-summary.md
+│   └── iteration-3-summary.md (this one, to be written)
+└── questions-for-chris.md (things to ask when context needed)
